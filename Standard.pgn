@@ -1,0 +1,27 @@
+[Event "The FACCT Standard"]
+[Site "FICS
+[Date "2017-04-08"]
+[Round "1"]
+[White "SHM"]
+[Black "JWocky"]
+[Result "0-1"]
+[BlackClock "0:60:00.000"]
+[LongResult "White forfeits"]
+[TimeControl "3600+60"]
+[WhiteClock "0:60:00.000"]
+
+1. {White forfeits}   0-1
+
+[Event "The FACCT Standard"]
+[Site "FICS"]
+[Date "2017-04-08"]
+[Round "1"]
+[White "Keith"]
+[Black "IAHMCOL"]
+[Result "0-1"]
+[BlackClock "0:60:00.000"]
+[LongResult "White forfeits"]
+[TimeControl "3600+60"]
+[WhiteClock "0:60:00.000"]
+
+1. {White forfeits}   0-1
