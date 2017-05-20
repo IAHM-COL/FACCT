@@ -6,12 +6,14 @@
 [Black "JWocky"]
 [Result "0-1"]
 [BlackClock "0:60:00.000"]
+[BlackElo "1198"]
 [EventDate "2017"]
 [LongResult "White forfeits"]
 [TimeControl "3600+60"]
 [WhiteClock "0:60:00.000"]
+[WhiteElo "1200"]
 
-1. $201 { White forfeits }  0-1
+{ White forfeits }  0-1
 
 [Event "The FACCT Standard"]
 [Site "FICS"]
@@ -21,10 +23,12 @@
 [Black "IAHMCOL"]
 [Result "0-1"]
 [BlackClock "0:60:00.000"]
+[BlackElo "1201"]
 [EventDate "2017"]
 [LongResult "White forfeits"]
 [TimeControl "3600+60"]
 [WhiteClock "0:60:00.000"]
+[WhiteElo "1200"]
 
-1. $201 { White forfeits }  0-1
+{ White forfeits }  0-1
 
