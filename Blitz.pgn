@@ -1,6 +1,6 @@
 [Event "The FACCT Blitz"]
 [Site "FICS"]
-[Date "2017-04-08"]
+[Date "2017.04.08"]
 [Round "1"]
 [White "ujeqaf"]
 [Black "JWocky"]
@@ -10,6 +10,7 @@
 [BlackRD "232.9"]
 [Duration "0:14:01"]
 [ECO "C20"]
+[EventDate "2017"]
 [FICSGamesDBGameNo "413000459"]
 [LongResult "White resigns"]
 [Time "12:56:00"]
@@ -20,11 +21,11 @@
 
 1. e4 e5 2. d3 Nc6 3. Nd2 Nf6 4. b3 d5 5. exd5 Nxd5 6. Bb2 Qe7 7. a3 Bf5 8. Ngf3
 Nd4 9. Nxd4 exd4+ 10. Be2 Nf4 11. g3 Ng2+ 12. Kf1 Bh3 13. Bf3 Ne3+ 14. Kg1 Nxd1
-15. Bxd1 Qe1+ { White resigns}   0-1
+15. Bxd1 Qe1+ $201 { White resigns}   0-1
 
 [Event "The FACCT Blitz"]
 [Site "FICS"]
-[Date "2017-04-08"]
+[Date "2017.04.08"]
 [Round "1"]
 [White "IAHMCOL"]
 [Black "ujeqaf"]
@@ -34,6 +35,7 @@ Nd4 9. Nxd4 exd4+ 10. Be2 Nf4 11. g3 Ng2+ 12. Kf1 Bh3 13. Bf3 Ne3+ 14. Kg1 Nxd1
 [BlackRD "220.9"]
 [Duration "0:28:01"]
 [ECO "B30"]
+[EventDate "2017"]
 [FICSGamesDBGameNo "413001402"]
 [LongResult "White resigns"]
 [Time "13:13:00"]
@@ -47,11 +49,11 @@ O-O 9. Qd3 h6 10. Bh4 Bc5 11. c3 d6 12. cxd4 exd4 13. Re1 Ne5 14. Nxe5 dxe5 15.
 g3 Qd7 16. Qf3 Be7 17. Na3 g5 18. Nb5 Nh7 19. Qb3 gxh4 20. Bxf7+ Rxf7 21. gxh4
 Kf8 22. Rac1 Rg7+ 23. Kf1 Qg4 24. Nc7 b6 25. Nxa8 Ba6+ 26. Rc4 Bxc4+ 27. Qxc4
 Bxh4 28. Qc8+ Kf7 29. Qc7+ Kf6 30. Qd8+ Kf7 31. Qc7+ Kf6 32. Rc1 Rxc7 33. Rxc7
-Qf3 34. Rc2 d3 35. Rd2 Bg5 { White resigns}   0-1
+Qf3 34. Rc2 d3 35. Rd2 Bg5 $201 { White resigns}   0-1
 
 [Event "The FACCT Blitz"]
 [Site "FICS"]
-[Date "2017-04-08"]
+[Date "2017.04.08"]
 [Round "1"]
 [White "IAHMCOL"]
 [Black "JWocky"]
@@ -61,6 +63,7 @@ Qf3 34. Rc2 d3 35. Rd2 Bg5 { White resigns}   0-1
 [BlackRD "211.0"]
 [Duration "0:07:41"]
 [ECO "C44"]
+[EventDate "2017"]
 [FICSGamesDBGameNo "413001620"]
 [LongResult "Black resigns"]
 [Time "13:41:00"]
@@ -71,6 +74,6 @@ Qf3 34. Rc2 d3 35. Rd2 Bg5 { White resigns}   0-1
 
 1. e4 e5 2. Nf3 Nc6 3. d4 d5 4. dxe5 Nxe5 5. Nxe5 Bb4+ 6. c3 Bxc3+ 7. Nxc3 c6 8.
 exd5 Qa5 9. dxc6 Qxe5+ 10. Be2 bxc6 11. f3 Nf6 12. g3 O-O 13. Bf4 Qd6 14. Qxd6
-Bb7 15. Bc4 Rad8 16. Qe7 Rfe8 17. Bxf7+ Kh8 18. Bxe8 Nxe8 19. Qxd8 { Black
+Bb7 15. Bc4 Rad8 16. Qe7 Rfe8 17. Bxf7+ Kh8 18. Bxe8 Nxe8 19. Qxd8 $201 { Black
 resigns}   1-0
 
