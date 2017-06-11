@@ -71,3 +71,86 @@ exd5 Qa5 9. dxc6 Qxe5+ 10. Be2 bxc6 11. f3 Nf6 12. g3 O-O 13. Bf4 Qd6 14. Qxd6
 Bb7 15. Bc4 Rad8 16. Qe7 Rfe8 17. Bxf7+ Kh8 18. Bxe8 Nxe8 19. Qxd8 $201 { Black
 resigns}   1-0
 
+[Event "The FACCT Blitz"]
+[Site "FICS"]
+[Date "2017.06.10"]
+[Round "2"]
+[White "ujeqaf"]
+[Black "IAHMCOL"]
+[Result "1-0"]
+[BlackClock "0:05:00.000"]
+[BlackElo "1221"]
+[Duration "0:20:07"]
+[ECO "A00"]
+[EventDate "2017.??.??"]
+[FICSGamesDBGameNo "414771038"]
+[LongResult "Black resigns"]
+[Time "13:01:00"]
+[TimeControl "300+12"]
+[WhiteClock "0:05:00.000"]
+[WhiteElo "1201"]
+
+1. g3 e5 2. e4 d6 3. Bg2 Nc6 4. Nf3 b6 5. O-O Bb7 6. c3 Qe7 7. d4 g6 8. Bg5 Qe6
+9. d5 Qg4 10. dxc6 Bxc6 11. Nbd2 f6 12. Be3 Bh6 13. Bxh6 Nxh6 14. Qc2 O-O 15.
+b3 d5 16. Rfe1 dxe4 17. Nxe4 f5 18. Ned2 e4 19. h3 Qh5 20. Ne5 e3 21. Nxc6 exd2
+22. Qxd2 Rfe8 23. Qd5+ Nf7 24. Bf3 Qxh3 25. Bg2 Qg4 26. Ne7+ Kg7 27. Qd4+ Kh6
+28. Qxg4 fxg4 29. Bxa8 Rxa8 30. Nd5 c5 31. Re7 Nd6 32. Nf6 Kg5 33. Nxh7+ Kf5
+34. Rae1 Re8 35. Rxe8 Nxe8 36. Rxe8 a5 37. Rf8+ Ke5 38. Rb8 c4 39. bxc4 b5 40.
+c5 b4 41. cxb4 axb4 42. c6 b3 43. axb3 Kd5 44. c7 Kd4 45. c8=Q g5 46. Qc4+ $201
+{ Black resigns}   1-0
+
+[Event "The FACCT Blitz"]
+[Site "FICS"]
+[Date "2017.06.10"]
+[Round "2"]
+[White "JWocky"]
+[Black "IAHMCOL"]
+[Result "0-1"]
+[BlackClock "0:05:00.000"]
+[BlackElo "1199"]
+[Duration "0:12:05"]
+[ECO "C44"]
+[EventDate "2017.??.??"]
+[FICSGamesDBGameNo "414771383"]
+[LongResult "White resigns"]
+[Time "13:22:00"]
+[TimeControl "300+12"]
+[WhiteClock "0:05:00.000"]
+[WhiteElo "1218"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 Nf6 4. dxe5 Nxe4 5. Bg5 Nxg5 6. Nxg5 Qxg5 7. Qf3 Nxe5
+8. Qb3 Bc5 9. Nd2 d6 10. O-O-O Be6 11. Qxb7 O-O 12. Qxc7 Rac8 13. Qa5 Nc4 14.
+Qc3 d5 15. h4 Qf4 16. h5 d4 17. Qh3 Bb4 18. h6 Bxh3 19. Rxh3 Bxd2+ 20. Kb1 Na3+
+21. bxa3 Rb8+ $201 { White resigns}   0-1
+
+[Event "FICS rated blitz game"]
+[Site "FICS"]
+[Date "2017.06.10"]
+[Round "2"]
+[White "JWocky"]
+[Black "ujeqaf"]
+[Result "1-0"]
+[BlackClock "0:05:00.000"]
+[BlackElo "1222"]
+[Duration "0:22:23"]
+[ECO "B45"]
+[EventDate "2017.??.??"]
+[FICSGamesDBGameNo "414771993"]
+[LongResult "Black checkmated"]
+[Time "13:37:00"]
+[TimeControl "300+12"]
+[WhiteClock "0:05:00.000"]
+[WhiteElo "1196"]
+
+1. e4 c5 2. Nc3 e6 3. Nf3 Nc6 4. d4 cxd4 5. Nxd4 Bb4 6. Nxc6 bxc6 7. a3 Bc5 8.
+Na4 Be7 9. Be3 Qa5+ 10. b4 Qxa4 11. Qd2 Ba6 12. Bxa6 Qxa6 13. Rb1 Qxa3 14. O-O
+Rb8 15. Rfd1 d5 16. exd5 cxd5 17. Ra1 Qxb4 18. Rdb1 $201 Qxd2 ( { ujeqaf
+comments: My biggest blunder, missed ... } 18... Qxb1+ 19. Rxb1 ( { Jwocky
+comments: I'd preffer, } 19. Qe1 Qxe1+ 20. Rxe1 )19... Rxb1+ )19. Rxb8+ Kd7 20.
+Rxa7+ Kd6 21. Bxd2 f5 22. Bc3 e5 23. Rb5 d4 24. Ra6+ Kd7 25. Rb7+ Ke8 26. Ra8+
+Kf7 27. Bb4 e4 28. Bxe7 Nxe7 29. Rxh8 d3 30. cxd3 exd3 31. Rd8 Ke6 32. Rxd3 Nd5
+33. Rb5 Nf4 34. Re3+ Kf6 35. Rb6+ Kg5 36. Rg3+ Kh5 37. Rb7 Ne2+ 38. Kf1 Nxg3+
+39. fxg3 Kh6 40. Rb6+ g6 41. Kf2 Kg5 42. Kf3 h5 43. h4+ Kh6 44. Kf4 Kg7 45. Ke5
+Kh6 46. Kf6 Kh7 47. Kf7 Kh6 48. Rxg6+ Kh7 49. Kf6 f4 50. gxf4 Kh8 51. Rh6+ Kg8
+52. Rxh5 Kf8 53. Rh8# $201 { Black checkmated}   1-0
+

@@ -32,3 +32,50 @@
 
 { White forfeits }  0-1
 
+[Event "The FACCT Standard"]
+[Site "FICS"]
+[Date "2017.06.10"]
+[Round "2"]
+[White "IAHMCOL"]
+[Black "JWocky"]
+[Result "1-0"]
+[BlackClock "1:00:00.000"]
+[BlackElo "1217"]
+[Duration "0:18:19"]
+[ECO "C24"]
+[EventDate "2017"]
+[FICSGamesDBGameNo "414772514"]
+[LongResult "Black checkmated"]
+[Time "14:02:00"]
+[TimeControl "3600+60"]
+[WhiteClock "1:00:00.000"]
+[WhiteElo "1220"]
+
+1. e4 e5 2. Bc4 Nf6 3. d4 exd4 4. Qf3 Qe7 5. Bg5 h6 6. Bxf6 gxf6 7. Nd2 Qb4 8.
+Qb3 $6 Qa5 { rejecting the Queen exchange offering}  9. O-O-O f5 10. Ngf3 fxe4
+11. Nxe4 Bg7 12. Rhe1 O-O 13. Rxd4 Qf5 $6 ( { maybe missing } 13... Bxd4)14.
+Rd5 Qf4+ 15. Re3 Qxh2 $4 { Jwocky expressively mentioned his blundering of the
+Queen here.}  16. Nxh2 { IAHMCOL mentions not beeing able to find an effective
+way of ignoring the blundered queen and attacking the King on full battery,
+thus, taking the offer.}  16... c6 17. Rf5 b5 18. Bxf7+ Rxf7 19. Qxf7+ Kh7 20.
+Rg3 d5 21. Nf6+ Kh8 22. Qg8# $201 { Black checkmated}  ( { IAHMCOL comments: I
+could have mated by offering the Queen, for a more colorful way } 22. Qf8+ Bxf8
+23. Rg8# ) 1-0
+
+[Event "The FACCT Standard"]
+[Site "FICS"]
+[Date "2017.06.10"]
+[Round "2"]
+[White "SHM"]
+[Black "Keith"]
+[Result "0-1"]
+[BlackClock "0:60:00.000"]
+[BlackElo "1180"]
+[EventDate "1180"]
+[LongResult "White forfeits"]
+[TimeControl "3600+60"]
+[WhiteClock "0:60:00.000"]
+[WhiteElo "1200"]
+
+{ White forfeits }  0-1
+
