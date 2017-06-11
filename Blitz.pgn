@@ -18,8 +18,9 @@
 [WhiteElo "1200"]
 
 1. e4 e5 2. d3 Nc6 3. Nd2 Nf6 4. b3 d5 5. exd5 Nxd5 6. Bb2 Qe7 7. a3 Bf5 8. Ngf3
-Nd4 9. Nxd4 exd4+ 10. Be2 Nf4 11. g3 Ng2+ 12. Kf1 Bh3 13. Bf3 Ne3+ 14. Kg1 Nxd1
-15. Bxd1 Qe1+ $201 { White resigns}   0-1
+Nd4 9. Nxd4 exd4+ 10. Be2 Nf4 11. g3 Ng2+ 12. Kf1 Bh3 13. Bf3 { IAHM-COL
+comment: I really admire ...}  13... Ne3+ $1 $155 14. Kg1 Nxd1 15. Bxd1 Qe1+
+$201 { White resigns}   0-1
 
 [Event "The FACCT Blitz"]
 [Site "FICS"]
@@ -42,10 +43,12 @@ Nd4 9. Nxd4 exd4+ 10. Be2 Nf4 11. g3 Ng2+ 12. Kf1 Bh3 13. Bf3 Ne3+ 14. Kg1 Nxd1
 
 1. e4 c5 2. Nf3 Nc6 3. Bc4 e6 4. O-O Be7 5. d3 Nf6 6. Be3 e5 7. d4 cxd4 8. Bg5
 O-O 9. Qd3 h6 10. Bh4 Bc5 11. c3 d6 12. cxd4 exd4 13. Re1 Ne5 14. Nxe5 dxe5 15.
-g3 Qd7 16. Qf3 Be7 17. Na3 g5 18. Nb5 Nh7 19. Qb3 gxh4 20. Bxf7+ Rxf7 21. gxh4
-Kf8 22. Rac1 Rg7+ 23. Kf1 Qg4 24. Nc7 b6 25. Nxa8 Ba6+ 26. Rc4 Bxc4+ 27. Qxc4
-Bxh4 28. Qc8+ Kf7 29. Qc7+ Kf6 30. Qd8+ Kf7 31. Qc7+ Kf6 32. Rc1 Rxc7 33. Rxc7
-Qf3 34. Rc2 d3 35. Rd2 Bg5 $201 { White resigns}   0-1
+g3 $2 $155 { ujeqaf comment: Blunder compromising Bishop on h4}  15... Qd7 16.
+Qf3 Be7 17. Na3 g5 18. Nb5 Nh7 19. Qb3 gxh4 20. Bxf7+ Rxf7 21. gxh4 Kf8 22.
+Rac1 Rg7+ 23. Kf1 Qg4 24. Nc7 b6 25. Nxa8 Ba6+ 26. Rc4 Bxc4+ 27. Qxc4 Bxh4 28.
+Qc8+ Kf7 $4 $155 ( { alternatively ... } 28... Qxc8)29. Qc7+ Kf6 30. Qd8+ Kf7
+31. Qc7+ Kf6 32. Rc1 $4 { Blunds the Queen, again??}  32... Rxc7 33. Rxc7 Qf3
+34. Rc2 d3 35. Rd2 Bg5 $201 { White resigns}   0-1
 
 [Event "The FACCT Blitz"]
 [Site "FICS"]
@@ -67,9 +70,12 @@ Qf3 34. Rc2 d3 35. Rd2 Bg5 $201 { White resigns}   0-1
 [WhiteElo "1179"]
 
 1. e4 e5 2. Nf3 Nc6 3. d4 d5 4. dxe5 Nxe5 5. Nxe5 Bb4+ 6. c3 Bxc3+ 7. Nxc3 c6 8.
-exd5 Qa5 9. dxc6 Qxe5+ 10. Be2 bxc6 11. f3 Nf6 12. g3 O-O 13. Bf4 Qd6 14. Qxd6
-Bb7 15. Bc4 Rad8 16. Qe7 Rfe8 17. Bxf7+ Kh8 18. Bxe8 Nxe8 19. Qxd8 $201 { Black
-resigns}   1-0
+exd5 Qa5 9. dxc6 Qxe5+ 10. Be2 bxc6 11. f3 Nf6 12. g3 O-O 13. Bf4 Qd6 $4 {
+IAHMCOL comment: How that this protect Quen from Bishop f4 and Queen d1??. 
+Jwocky comment: It was an easy with software and it was not his originally
+intended move.}  14. Qxd6 Bb7 15. Bc4 Rad8 16. Qe7 Rfe8 17. Bxf7+ Kh8 18. Bxe8
+Nxe8 $5 ( 18... Rxe8 { nothing can protect Queen on the following move since it
+is pinned.}  19. Qxe8+ Nxe8 20. O-O-O )19. Qxd8 $201 { Black resigns}   1-0
 
 [Event "The FACCT Blitz"]
 [Site "FICS"]
@@ -82,7 +88,7 @@ resigns}   1-0
 [BlackElo "1221"]
 [Duration "0:20:07"]
 [ECO "A00"]
-[EventDate "2017.??.??"]
+[EventDate "2017"]
 [FICSGamesDBGameNo "414771038"]
 [LongResult "Black resigns"]
 [Time "13:01:00"]
@@ -90,14 +96,14 @@ resigns}   1-0
 [WhiteClock "0:05:00.000"]
 [WhiteElo "1201"]
 
-1. g3 e5 2. e4 d6 3. Bg2 Nc6 4. Nf3 b6 5. O-O Bb7 6. c3 Qe7 7. d4 g6 8. Bg5 Qe6
-9. d5 Qg4 10. dxc6 Bxc6 11. Nbd2 f6 12. Be3 Bh6 13. Bxh6 Nxh6 14. Qc2 O-O 15.
-b3 d5 16. Rfe1 dxe4 17. Nxe4 f5 18. Ned2 e4 19. h3 Qh5 20. Ne5 e3 21. Nxc6 exd2
-22. Qxd2 Rfe8 23. Qd5+ Nf7 24. Bf3 Qxh3 25. Bg2 Qg4 26. Ne7+ Kg7 27. Qd4+ Kh6
-28. Qxg4 fxg4 29. Bxa8 Rxa8 30. Nd5 c5 31. Re7 Nd6 32. Nf6 Kg5 33. Nxh7+ Kf5
-34. Rae1 Re8 35. Rxe8 Nxe8 36. Rxe8 a5 37. Rf8+ Ke5 38. Rb8 c4 39. bxc4 b5 40.
-c5 b4 41. cxb4 axb4 42. c6 b3 43. axb3 Kd5 44. c7 Kd4 45. c8=Q g5 46. Qc4+ $201
-{ Black resigns}   1-0
+1. g3 $5 { Benko Opening...}  1... e5 2. e4 d6 3. Bg2 Nc6 4. Nf3 b6 5. O-O Bb7
+6. c3 Qe7 7. d4 g6 8. Bg5 Qe6 9. d5 Qg4 10. dxc6 Bxc6 11. Nbd2 f6 12. Be3 Bh6
+13. Bxh6 Nxh6 14. Qc2 O-O 15. b3 d5 16. Rfe1 dxe4 17. Nxe4 f5 18. Ned2 e4 19.
+h3 Qh5 20. Ne5 e3 21. Nxc6 exd2 22. Qxd2 Rfe8 23. Qd5+ Nf7 24. Bf3 Qxh3 25. Bg2
+Qg4 26. Ne7+ Kg7 27. Qd4+ Kh6 28. Qxg4 fxg4 29. Bxa8 Rxa8 30. Nd5 c5 31. Re7
+Nd6 32. Nf6 Kg5 33. Nxh7+ Kf5 34. Rae1 Re8 35. Rxe8 Nxe8 36. Rxe8 a5 37. Rf8+
+Ke5 38. Rb8 c4 39. bxc4 b5 40. c5 b4 41. cxb4 axb4 42. c6 b3 43. axb3 Kd5 44.
+c7 Kd4 45. c8=Q g5 46. Qc4+ $201 { Black resigns}   1-0
 
 [Event "The FACCT Blitz"]
 [Site "FICS"]
@@ -110,7 +116,7 @@ c5 b4 41. cxb4 axb4 42. c6 b3 43. axb3 Kd5 44. c7 Kd4 45. c8=Q g5 46. Qc4+ $201
 [BlackElo "1199"]
 [Duration "0:12:05"]
 [ECO "C44"]
-[EventDate "2017.??.??"]
+[EventDate "2017"]
 [FICSGamesDBGameNo "414771383"]
 [LongResult "White resigns"]
 [Time "13:22:00"]
@@ -134,7 +140,7 @@ Qc3 d5 15. h4 Qf4 16. h5 d4 17. Qh3 Bb4 18. h6 Bxh3 19. Rxh3 Bxd2+ 20. Kb1 Na3+
 [BlackElo "1222"]
 [Duration "0:22:23"]
 [ECO "B45"]
-[EventDate "2017.??.??"]
+[EventDate "2017"]
 [FICSGamesDBGameNo "414771993"]
 [LongResult "Black checkmated"]
 [Time "13:37:00"]
@@ -153,4 +159,3 @@ Kf7 27. Bb4 e4 28. Bxe7 Nxe7 29. Rxh8 d3 30. cxd3 exd3 31. Rd8 Ke6 32. Rxd3 Nd5
 39. fxg3 Kh6 40. Rb6+ g6 41. Kf2 Kg5 42. Kf3 h5 43. h4+ Kh6 44. Kf4 Kg7 45. Ke5
 Kh6 46. Kf6 Kh7 47. Kf7 Kh6 48. Rxg6+ Kh7 49. Kf6 f4 50. gxf4 Kh8 51. Rh6+ Kg8
 52. Rxh5 Kf8 53. Rh8# $201 { Black checkmated}   1-0
-
