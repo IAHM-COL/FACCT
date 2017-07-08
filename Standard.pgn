@@ -79,3 +79,48 @@ could have mated by offering the Queen, for a more colorful way } 22. Qf8+ Bxf8
 
 { White forfeits }  0-1
 
+[Event "The FACCT Standard"]
+[Site "FICS"]
+[Date "2017.07.08"]
+[Round "3"]
+[White "IAHMCOL"]
+[Black "SHM"]
+[Result "1-0"]
+[BlackClock "0:60:00.000"]
+[BlackElo "1160"]
+[EventDate "2017"]
+[LongResult "Black forfeits"]
+[TimeControl "3600+60"]
+[WhiteClock "0:60:00.000"]
+[WhiteElo "1235"]
+
+{ Black forfeits }  1-0
+
+[Event "The FACCT Standard"]
+[Site "FICS"]
+[Date "2017.06.08"]
+[Round "3"]
+[White "JWocky"]
+[Black "KeithHadden"]
+[Result "1-0"]
+[BlackClock "1:00:00.000"]
+[BlackElo "1200"]
+[Duration "0:13:44"]
+[ECO "B07"]
+[EventDate "2017.??.??"]
+[FICSGamesDBGameNo "415471833"]
+[LongResult "Black checkmated"]
+[Time "10:52:00"]
+[TimeControl "3600+60"]
+[WhiteClock "1:00:00.000"]
+[WhiteElo "1197"]
+
+1. e4 d6 2. Nc3 e5 3. Nf3 Bg4 4. d3 Nf6 5. Be2 Be7 6. Ng5 O-O 7. Bxg4 Nxg4 8.
+Qxg4 f6 $6 9. Qe6+ ( { IAHM-COL comments } 9. Ne6 g6 { forced, or checkmate by}
+ ( 9... Qd7 10. Qxg7# )10. Nxd8 Bxd8 )9... Rf7 10. Nxf7 Qe8 11. Nxd6+ Kf8 12.
+Nxe8 Kxe8 13. Qg8+ Bf8 14. Nd5 c6 15. Nc7+ Kd7 16. Nxa8 Na6 17. Qxf8 b5 18.
+Qxg7+ Kd6 19. Qxf6+ Kc5 20. Be3+ ( { IAHM-COL comments, Alternative mated with
+} 20. Qxe5+ Kb4 21. Bd2+ Ka4 22. Qd4+ Nb4 23. Qxb4# )20... Kb4 21. a3+ Ka4 22.
+Qd8 h5 $4 23. Bd2 ( { Mate in one by } 23. b3#)23... Nc5 24. Qa5# $201 { Black
+checkmated}   1-0
+

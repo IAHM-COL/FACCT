@@ -71,7 +71,7 @@ Qc8+ Kf7 $4 $155 ( { alternatively ... } 28... Qxc8)29. Qc7+ Kf6 30. Qd8+ Kf7
 
 1. e4 e5 2. Nf3 Nc6 3. d4 d5 4. dxe5 Nxe5 5. Nxe5 Bb4+ 6. c3 Bxc3+ 7. Nxc3 c6 8.
 exd5 Qa5 9. dxc6 Qxe5+ 10. Be2 bxc6 11. f3 Nf6 12. g3 O-O 13. Bf4 Qd6 $4 {
-IAHMCOL comment: How that this protect Quen from Bishop f4 and Queen d1??. 
+IAHMCOL comment: How does this protect Queen from Bishop f4 and Queen d1??.
 Jwocky comment: It was an easy with software and it was not his originally
 intended move.}  14. Qxd6 Bb7 15. Bc4 Rad8 16. Qe7 Rfe8 17. Bxf7+ Kh8 18. Bxe8
 Nxe8 $5 ( 18... Rxe8 { nothing can protect Queen on the following move since it
@@ -159,3 +159,83 @@ Kf7 27. Bb4 e4 28. Bxe7 Nxe7 29. Rxh8 d3 30. cxd3 exd3 31. Rd8 Ke6 32. Rxd3 Nd5
 39. fxg3 Kh6 40. Rb6+ g6 41. Kf2 Kg5 42. Kf3 h5 43. h4+ Kh6 44. Kf4 Kg7 45. Ke5
 Kh6 46. Kf6 Kh7 47. Kf7 Kh6 48. Rxg6+ Kh7 49. Kf6 f4 50. gxf4 Kh8 51. Rh6+ Kg8
 52. Rxh5 Kf8 53. Rh8# $201 { Black checkmated}   1-0
+
+[Event "The FACCT Blitz"]
+[Site "FICS"]
+[Date "2017.06.08"]
+[Round "3"]
+[White "ujeqaf"]
+[Black "IAHMCOL"]
+[Result "1-0"]
+[BlackClock "0:05:00.000"]
+[BlackElo "1240"]
+[Duration "0:12:26"]
+[ECO "D02"]
+[EventDate "2017.??.??"]
+[FICSGamesDBGameNo "415502180"]
+[LongResult "Black resigns"]
+[Time "13:01:00"]
+[TimeControl "300+12"]
+[WhiteClock "0:05:00.000"]
+[WhiteElo "1200"]
+
+1. Nf3 d5 2. d4 Nc6 3. c3 e5 4. Nbd2 Bf5 5. g3 e4 6. Nh4 Bg4 7. f3 exf3 8. exf3
+Bh5 9. Qe2+ Qe7 10. Qxe7+ Bxe7 11. Bg2 Bxh4 12. gxh4 O-O-O 13. O-O Nf6 14. Nb3
+Rhe8 15. Bg5 h6 16. Bxf6 gxf6 17. Rfe1 Rg8 18. Rad1 Bxf3 19. Rd2 Rde8 20. Rxe8+
+Rxe8 21. Bxf3 Re1+ 22. Kg2 f5 23. Kf2 Re8 24. Bxd5 Ne7 25. Bxf7 Rf8 26. Bc4 Ng6
+27. Bd3 Nxh4 28. Kg3 Ng6 29. Rf2 f4+ 30. Kg4 Rg8 31. Bxg6 Rxg6+ 32. Kxf4 Rf6+
+33. Kg3 Rg6+ 34. Kf3 Rf6+ 35. Ke2 Re6+ 36. Kf1 h5 37. Nc5 Re7 $4 { IAHMCOL
+comments: ''Oops''}  ( 37... b6 $13)38. Rf8+ $201 { Black resigns}   1-0
+
+[Event "The FACCT Blitz"]
+[Site "FICS"]
+[Date "2017.06.08"]
+[Round "3"]
+[White "JWocky"]
+[Black "ujeqaf"]
+[Result "0-1"]
+[BlackClock "0:05:00.000"]
+[BlackElo "1222"]
+[Duration "0:20:25"]
+[ECO "B23"]
+[EventDate "2017.??.??"]
+[FICSGamesDBGameNo "415502899"]
+[LongResult "White checkmated"]
+[Time "13:20:00"]
+[TimeControl "300+12"]
+[WhiteClock "0:05:00.000"]
+[WhiteElo "1217"]
+
+1. e4 c5 2. Nc3 Nc6 3. d3 e6 4. Qf3 Nd4 5. Kd2 $4 Nxf3+ 6. gxf3 d5 7. Nb5 a6 8.
+Nc3 d4 9. Nce2 Bd6 10. Nh3 e5 11. c3 Bxh3 12. Bxh3 Nf6 13. cxd4 cxd4 14. Ke1
+Bb4+ 15. Bd2 Bxd2+ 16. Kxd2 O-O 17. Rhg1 b5 18. Rg3 Nh5 19. Rg4 Nf6 20. Rg2 Re8
+21. Rag1 g6 22. Ng3 Kh8 23. Rc1 Qa5+ 24. Kd1 Rac8 25. Nf5 Rxc1+ 26. Kxc1 Qe1+
+27. Kc2 Rc8+ 28. Kb3 Qd1+ 29. Kb4 Qd2+ 30. Kb3 Qxd3+ 31. Kb4 Rc4+ 32. Ka5 Ra4+
+33. Kb6 Nd7+ 34. Kc6 Nb8+ 35. Kd6 Qc4 36. Kxe5 Qc5+ 37. Kf6 Qc6+ 38. Kxf7 d3
+39. Nh4 Rd4 40. Nxg6+ hxg6 41. Bf5 gxf5 42. Rg8+ Kh7 43. Rg7+ Kh6 44. h4 Rd7+
+45. Kg8 Rxg7+ 46. Kf8 Qc8# $201 { White checkmated}   0-1
+
+[Event "The FACCT Blitz"]
+[Site "FICS"]
+[Date "2017.06.08"]
+[Round "3"]
+[White "JWocky"]
+[Black "IAHMCOL"]
+[Result "0-1"]
+[BlackClock "0:05:00.000"]
+[BlackElo "1217"]
+[Duration "0:12:55"]
+[ECO "C40"]
+[EventDate "2017.??.??"]
+[FICSGamesDBGameNo "415503276"]
+[LongResult "White checkmated"]
+[Time "13:43:00"]
+[TimeControl "300+12"]
+[WhiteClock "0:05:00.000"]
+[WhiteElo "1197"]
+
+1. e4 e5 2. Nf3 Bc5 3. Nxe5 d6 4. Nc4 Nc6 5. d4 Bb4+ 6. c3 Ba5 7. e5 dxe5 8. d5
+Nce7 9. Nxa5 b6 10. Nc4 Nxd5 11. Nxe5 Qd6 12. Qf3 f6 13. Qh5+ g6 14. Qe2 fxe5
+15. Qb5+ c6 16. Qd3 Ngf6 17. c4 Qb4+ 18. Bd2 Qxb2 19. Bc3 Nxc3 20. Qd6 Ng4 21.
+Qxc6+ Ke7 22. Qxa8 $4 Qxf2# $201 { White checkmated}   0-1
+
