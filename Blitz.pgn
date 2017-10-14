@@ -337,16 +337,16 @@ checkmated}   1-0
 1. e4 e5 2. Nf3 Nc6 3. d4 Nf6 4. Nc3 Bd6 5. dxe5 Nxe5 6. Bd3 b6 7. Be3 Bb7 8.
 Qe2 O-O 9. Ng5 Nfg4 10. Bd4 Qxg5 11. Be3 Qg6 12. h3 Nxe3 13. fxe3 Bb4 14. O-O
 Bxc3 15. bxc3 Bxe4 16. Rf2 Bxd3 17. Qd2 Be4 18. c4 Rad8 19. Qb4 Nf3+ 20. Kf1
-Nh2+ 21. Ke2 Bxc2 22. Rh1 Qd3+ 23. Ke1 Qxe3+ 24. Re2 Nf3+ 25. gxf3 Qxf3 26. Rf1
-Qg3+ 27. Kd2 Bf5 $4 { IAHM-COL comments; It bluders my Bishop, but}  ( 27...
-Bg6 $142)28. Re7 ( { IAHM-COL comments: JWocky did not penalize the mistake }
-28. Rxf5)28... Qd3+ 29. Ke1 Qxh3 30. c5 Rde8 $3 31. cxb6 ( { IAHM-COL comments:
-} 31. Rxe8 $142 Rxe8+ 32. Kd2 Qe3+ $19 ( 32... Qd3+ 33. Kc1 Qxf1+ ))31... Qh4+
-32. Kd1 Bg4+ 33. Kd2 Rxe7 34. bxc7 Qg5+ 35. Kc3 Rc8 { IAHM-COL comments:
-Possibly a resigning point, yet...}  36. Qc4 Be6 37. Qa6 Rxc7+ { IAHM-COL
-comments: White maintains  pressure over QC8#, if Rc7 stops protecting.}  38.
-Kb4 Qc5+ 39. Ka4 Bb3+ 40. Kxb3 Re3+ 41. Ka4 Qd4+ 42. Kb5 Rc5# $201 { White
-checkmated}   0-1
+Nh2+ 21. Ke2 Bxc2 22. Rh1 Qd3+ 23. Ke1 Qxe3+ $4 ( 23... Qd1# $142)( 23... Nf3+
+24. gxf3 Qd1# )24. Re2 Nf3+ 25. gxf3 Qxf3 26. Rf1 Qg3+ 27. Kd2 Bf5 $4 {
+IAHM-COL comments; It bluders my Bishop, but}  ( 27... Bg6 $142)28. Re7 ( {
+IAHM-COL comments: JWocky did not penalize the mistake } 28. Rxf5)28... Qd3+
+29. Ke1 Qxh3 30. c5 Rde8 $3 31. cxb6 ( { IAHM-COL comments: } 31. Rxe8 $142
+Rxe8+ 32. Kd2 Qe3+ $19 ( 32... Qd3+ 33. Kc1 Qxf1+ ))31... Qh4+ 32. Kd1 Bg4+ 33.
+Kd2 Rxe7 34. bxc7 Qg5+ 35. Kc3 Rc8 { IAHM-COL comments: Possibly a resigning
+point, yet...}  36. Qc4 Be6 37. Qa6 Rxc7+ { IAHM-COL comments: White maintains
+pressure over QC8#, if Rc7 stops protecting.}  38. Kb4 Qc5+ 39. Ka4 Bb3+ 40.
+Kxb3 Re3+ 41. Ka4 Qd4+ 42. Kb5 Rc5# $201 { White checkmated}   0-1
 
 [Event "The FACCT Blitz"]
 [Site "FICS"]
