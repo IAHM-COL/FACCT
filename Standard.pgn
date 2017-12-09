@@ -212,5 +212,56 @@ of Knight on e5, but it's over, since ...}  ( 8... g6 $142)( 8... f5 9. Qd5+
 Kh8 $4 { Blunders the Queen, by ...}  ( 9... Rf7 10. Qxf7+ Kh8 11. Ng6+ hxg6
 12. b3 Qd7 13. Qf8+ Kh7 )10. Nf7+ Kg8 11. Nxd8+ Kh8 12. Nf7+ Kg8 13. Nh6+ Kh8
 14. Nf7+ Kg8 15. Ng5+ Kh8 )( 8... dxe5 $4 $148 9. Qxh7# ( 9. --))9. Qxh7# {
-Black checkmated.  Keith Comments: That did not take long? Did it?}   1-0
+Black checkmated. Keith Comments: That did not take long? Did it?}   1-0
+
+[Event "The FACCT Standard"]
+[Site "FICS"]
+[Date "2017.12.09"]
+[Round "6"]
+[White "SHM"]
+[Black "IAHM-COL"]
+[Result "0-1"]
+[BlackClock "0:60:00.000"]
+[BlackElo "1253"]
+[EventDate "2017"]
+[LongResult "White forfeits"]
+[TimeControl "3600+60"]
+[WhiteClock "0:60:00.000"]
+[WhiteElo "1107"]
+
+ 0-1
+
+[Event "The FACCT Standard"]
+[Site "FICS"]
+[Date "2017.12.09"]
+[Round "6"]
+[White "KeithHadden"]
+[Black "JWocky"]
+[Result "1-0"]
+[BlackClock "1:00:00.000"]
+[BlackElo "1144"]
+[Duration "0:31:50"]
+[ECO "C40"]
+[EventDate "2017.12.09"]
+[FICSGamesDBGameNo "419475015"]
+[LongResult "Black checkmated"]
+[Time "12:55:00"]
+[TimeControl "3600+60"]
+[WhiteClock "1:00:00.000"]
+[WhiteElo "1180"]
+
+1. e4 e5 2. Nf3 Bd6 3. Bc4 Nc6 4. O-O Nf6 5. d3 Ng4 6. Bg5 f6 7. Bh4 b6 8. Qd2
+Rg8 9. Nc3 g5 10. Bg3 f5 11. exf5 Rf8 12. Qxg5 Be7 13. Qh5+ Rf7 14. Rae1 $4 ( {
+IAHM-COL comments: Misses mate in 1; } 14. Qxf7#)14... d5 15. Bxd5 Nf6 16.
+Qxf7+ Kd7 17. Nxe5+ Nxe5 18. Rxe5 Kd6 19. Nb5+ Kc5 20. Nc3 Kd4 21. Rfe1 Bd6 22.
+R5e4+ Kc5 23. d4+ Kb4 24. a3+ Ka5 25. R4e3 Bxg3 26. fxg3 Ng4 27. Qe8 Qd6 $4 ( {
+IAHMCOL comments; Queen exchange was possible } 27... Qxe8 28. Rxe8 Bb7 29.
+Rxa8 Bxa8 30. Bxa8 $142 )28. Bxa8 $4 ( { IAHM-COL comments: Misses mate in 1; }
+28. Qb5#)28... Qh6 $4 29. Qxc8 $4 ( { IAHM-COL comments: Mate in 1 still
+possible; } 29. Qb5#)29... Qxh2+ 30. Kf1 Qh1+ 31. Ke2 Qxg2+ 32. Kd3 $4 ( 32.
+Bxg2 $142)32... Nxe3 $4 { Sacrifices Queen on g2 again, which is now taken by
+White, which is decisive for the endgame}  33. Bxg2 $148 Nxg2 34. Re5+ $3 {
+JWocky comments: I think it is mate!.... It is certainly a resignable position,
+already, but it follows...}  34... b5 ( 34... c5 $18 35. dxc5 b5 36. b4# )35.
+Rxb5# $201 { Black checkmated, Standard Tournament victory for IAHM-COL}   1-0
 
