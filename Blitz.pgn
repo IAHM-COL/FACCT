@@ -428,7 +428,7 @@ instantly, JWocky informed us that he had a software glicht.}  15. f4 Qc5 $4 {
 White moves and mates in 1}  16. Qxc8+ $3 $148 { Black are now checkmated} 
 16... Nd8 17. Qxd8# $201 { Black checkmated}   1-0
 
-[Event "The FACCT Standard"]
+[Event "The FACCT Blitz"]
 [Site "FICS"]
 [Date "2017.12.09"]
 [Round "6"]
@@ -437,15 +437,15 @@ White moves and mates in 1}  16. Qxc8+ $3 $148 { Black are now checkmated}
 [Result "0-1"]
 [BlackClock "0:05:00.000"]
 [BlackElo "1253"]
-[EventDate "1126"]
+[EventDate "2017"]
 [LongResult "White forfeits"]
 [TimeControl "300+12"]
 [WhiteClock "0:05:00.000"]
-[WhiteElo "1308"]
+[WhiteElo "1126"]
 
  0-1
 
-[Event "The FACCT Standard"]
+[Event "The FACCT Blitz"]
 [Site "FICS"]
 [Date "2017.12.09"]
 [Round "6"]
@@ -454,11 +454,11 @@ White moves and mates in 1}  16. Qxc8+ $3 $148 { Black are now checkmated}
 [Result "1-0"]
 [BlackClock "0:05:00.000"]
 [BlackElo "1253"]
-[EventDate "1265"]
+[EventDate "2017"]
 [LongResult "Black forfeits"]
 [TimeControl "300+12"]
 [WhiteClock "0:05:00.000"]
-[WhiteElo "1279"]
+[WhiteElo "1265"]
 
  1-0
 
