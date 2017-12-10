@@ -130,16 +130,16 @@ checkmated}   1-0
 [Round "4"]
 [White "KeithHadden"]
 [Black "SHM"]
-[Result "0-1"]
+[Result "1-0"]
 [BlackClock "0:60:00.000"]
 [BlackElo "1144"]
-[EventDate "2017"]
+[EventDate "2017.??.??"]
 [LongResult "Black forfeits"]
 [TimeControl "3600+60"]
 [WhiteClock "0:60:00.000"]
 [WhiteElo "1180"]
 
- 0-1
+{ Black forfeits }  1-0
 
 [Event "The FACCT Standard"]
 [Site "FICS"]
@@ -173,16 +173,16 @@ Black resigns}   1-0
 [Round "5"]
 [White "JWocky"]
 [Black "SHM"]
-[Result "0-1"]
+[Result "1-0"]
 [BlackClock "0:60:00.000"]
 [BlackElo "1126"]
-[EventDate "2017"]
+[EventDate "2017.??.??"]
 [LongResult "Black forfeits"]
 [TimeControl "3600+60"]
 [WhiteClock "0:60:00.000"]
 [WhiteElo "1140"]
 
- 0-1
+{ Black forfeits }  1-0
 
 [Event "The FACCT Standard"]
 [Site "FICS"]
@@ -223,13 +223,13 @@ Black checkmated. Keith Comments: That did not take long? Did it?}   1-0
 [Result "0-1"]
 [BlackClock "0:60:00.000"]
 [BlackElo "1253"]
-[EventDate "2017"]
+[EventDate "2017.??.??"]
 [LongResult "White forfeits"]
 [TimeControl "3600+60"]
 [WhiteClock "0:60:00.000"]
 [WhiteElo "1107"]
 
- 0-1
+{ White forfeits }  0-1
 
 [Event "The FACCT Standard"]
 [Site "FICS"]

@@ -437,13 +437,13 @@ White moves and mates in 1}  16. Qxc8+ $3 $148 { Black are now checkmated}
 [Result "0-1"]
 [BlackClock "0:05:00.000"]
 [BlackElo "1253"]
-[EventDate "2017"]
+[EventDate "2017.??.??"]
 [LongResult "White forfeits"]
 [TimeControl "300+12"]
 [WhiteClock "0:05:00.000"]
 [WhiteElo "1126"]
 
- 0-1
+{ White forfeits }  0-1
 
 [Event "The FACCT Blitz"]
 [Site "FICS"]
@@ -454,11 +454,11 @@ White moves and mates in 1}  16. Qxc8+ $3 $148 { Black are now checkmated}
 [Result "1-0"]
 [BlackClock "0:05:00.000"]
 [BlackElo "1253"]
-[EventDate "2017"]
+[EventDate "2017.??.??"]
 [LongResult "Black forfeits"]
 [TimeControl "300+12"]
 [WhiteClock "0:05:00.000"]
 [WhiteElo "1265"]
 
- 1-0
+{ Black forfeits }  1-0
 
