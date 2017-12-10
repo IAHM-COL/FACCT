@@ -1,4 +1,4 @@
-The FlightGear Airport Cafe Chess Tournament was played between April and
+The **FlightGear Airport Cafe Chess Tournament (FACCT)** was played between April and
 December 2017, and host in http://www.thejabberwocky.net
 
 ***
